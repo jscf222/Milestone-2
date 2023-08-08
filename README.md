@@ -1,4 +1,3 @@
-# Milestone-2
-Food Recipe Project
+#Food Recipe Project
 
  
